@@ -254,7 +254,7 @@ Then work on the exercise in `StepTracker.java`.
 
 ### ICS 4U
 
-Nothing is assessed directly from this lesson. Declaring, initializing, modifying, and traversing one-dimensional arrays, and the count/total/highest/lowest algorithms, were assessed in ICS3U (A1.5, A1.6, A2.3); this lesson is the Java syntax for those skills. It is the foundation for ICS4U A3.2 (linear and binary search in an array), A3.3 (subprograms that insert and delete array elements), A3.4 (sorting an array), and A1.5 (arrays of objects, once you write your own classes), Strand A: Programming Concepts and Skills.
+Nothing is assessed directly from this lesson. However, knowledge of arrays will be needed for future criteria such as arrays of objects and sorting algorithms.
 
 ### AP Expectations
 

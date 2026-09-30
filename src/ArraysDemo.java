@@ -10,13 +10,13 @@ import java.util.Arrays;
 public class ArraysDemo {
 
     public static void main(String[] args) {
-        creatingAnArray();
-        accessingAndModifying();
+        //creatingAnArray();
+        //accessingAndModifying();
         traversingAnArray();
-        printingAnArray();
-        arrayReferences();
-        standardAlgorithms();
-        commonArrayBugs();
+        //printingAnArray();
+        //arrayReferences();
+        //standardAlgorithms();
+        //commonArrayBugs();
     }
 
     // method to demonstrate initializer lists, new, and default values
@@ -79,14 +79,14 @@ public class ArraysDemo {
         }
 
         // enhanced for: Python's for score in scores
-        for (int score : scores) {
-            System.out.print(score + " ");
+        for (int s : scores) {
+            System.out.print(s + " ");
         }
         System.out.println();
 
         // the enhanced for variable is a COPY, so this changes nothing
-        for (int score : scores) {
-            score = 0;
+        for (int s : scores) {
+            s = 0;
         }
         System.out.println("after setting the loop variable to 0: " + Arrays.toString(scores));
 
